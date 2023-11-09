@@ -1,4 +1,3 @@
-// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Данная программа позволяет выполнить упаковку, обработку и распаковку симметричных разреженных матриц");
 Console.Write("Введите размерность матриц: ");
 int n = Convert.ToInt32(Console.ReadLine());
