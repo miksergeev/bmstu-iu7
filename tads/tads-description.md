@@ -1,2 +1,2 @@
-Types and data structures
+Types and data structures  
 Типы и структуры данных
