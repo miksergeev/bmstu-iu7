@@ -1,1 +1,2 @@
-
+Computer networks
+Компьютерные сети
